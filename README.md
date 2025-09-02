@@ -27,8 +27,8 @@ pip install tensorflow numpy matplotlib scikit-learn
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/computer-vision-digit-recognition.git
-cd computer-vision-digit-recognition
+git clone https://github.com/YashBhattad/Computer-Vision-Digit-Recognition.git
+cd Computer-Vision-Digit-Recognition
 ```
 
 Open either notebook in Jupyter Notebook or VS Code.
